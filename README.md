@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @StephenFinegan21
 - 👀 I’m interested in Web Developement
 - 🌱 I've recently graduated with a higher diploma in computing
-- 💞️ I’m looking for junior or entry level developer roles in Dublin, Ireland
+-  I’m looking for junior or entry level developer roles in Dublin, Ireland
 
 
 <!---
