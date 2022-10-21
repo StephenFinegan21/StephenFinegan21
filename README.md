@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @StephenFinegan21
-- 👀 I’m interested in Web Developement
-- 🌱 I've recently graduated with a higher diploma in computing
--  I’m currently working at Distilled in Dublin
+- 💻 Frontend Developer
+- 🏠 I’m currently working at Distilled in Dublin on the Daft.ie team
 
 
 <!---
